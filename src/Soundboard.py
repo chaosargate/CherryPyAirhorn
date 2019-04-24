@@ -3,7 +3,7 @@ import os
 import json
 from playsound import playsound
 import socket
-from src.OSFunc import make_sound_listing, get_sound_ext_from_dir
+from OSFunc import make_sound_listing, get_sound_ext_from_dir
 
 
 class Root:

@@ -7,7 +7,7 @@ function SoundIcon(props) {
 
     return (
         <div className="SoundIcon" onClick={playSound}>
-            <img src={imgsrc} width="100" />
+            <img src={imgsrc} height="100" />
             <span>{dir}</span>
         </div>
     )
