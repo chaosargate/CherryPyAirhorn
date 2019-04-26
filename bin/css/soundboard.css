@@ -8,11 +8,11 @@ img {
 }
 
 .SoundBoard {
-    display: flex;
+    display: flow-root;
 }
 
 .SoundIcon {
-    display: grid;
+    display: inline-grid;
     text-align: center;
     cursor: pointer;
     color: white;
